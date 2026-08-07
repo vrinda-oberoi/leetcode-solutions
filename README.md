@@ -29,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0056-merge-intervals) |
+## Database
+|  |
+| ------- |
+| [1683-invalid-tweets](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1683-invalid-tweets) |
 <!---LeetCode Topics End-->

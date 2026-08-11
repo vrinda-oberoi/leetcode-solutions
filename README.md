@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0706-design-hashmap](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Union-Find
 |  |
@@ -87,13 +88,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0706-design-hashmap](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0706-design-hashmap](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0706-design-hashmap) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

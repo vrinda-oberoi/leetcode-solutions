@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Dynamic Programming
 |  |

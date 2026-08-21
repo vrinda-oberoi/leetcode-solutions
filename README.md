@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0875-koko-eating-bananas](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Dynamic Programming
 |  |

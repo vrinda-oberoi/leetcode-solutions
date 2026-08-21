@@ -26,16 +26,7 @@ class Solution {
     public int check(int nums[],int mid){
         int sum=0;
         for(int num:nums){
-            if(num <= mid){
-                sum +=1;
-            }
-            if(num > mid){
-               if(num % mid == 0){
-                sum += num/mid;
-               }else{
-                sum += num/mid +1;
-               }
-            }
+            sum += (num+mid-1)/mid;
         }
         return sum;
     }

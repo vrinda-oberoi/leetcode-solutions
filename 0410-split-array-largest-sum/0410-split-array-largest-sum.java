@@ -1,43 +1,38 @@
 class Solution {
     public int splitArray(int[] nums, int k) {
-        int n = nums.length;
-        int max = nums[0];
-        int total=nums[0];
-        for(int i=1;i<n;i++){
-            total +=nums[i];
-            if(nums[i] > max){
-              max = nums[i];
-            }
+        int max =0;
+        int total =0;
+        int ans=0;
+
+        for(int num:nums){
+            total += num;
+            max = Math.max(num,max);
         }
 
         int low = max;
         int high = total;
-        int result =high;
-        while(low <=high){
-           int mid = low+(high-low)/2;
-           int sub =1;
-           int sum = 0;
 
-           for(int i=0;i<n;i++){
-            sum += nums[i];
-
-            if(sum > mid){
-                sub++;
-                sum = nums[i];
+        while(low <= high){
+            int mid = low +(high-low)/2;
+            int sub =1;
+            int val=0;
+            for(int i=0;i<nums.length;i++){
+                val += nums[i];
+                if(val > mid){
+                    sub++;
+                    val = nums[i];
+                }
+                if(sub >k){
+                    break;
+                }
             }
-
-            if(sub >k){
-                break;
+            if(sub <= k){
+                ans = mid;
+                high =mid-1;
+            }else{
+                low = mid+1;
             }
-           }
-
-           if(sub <= k){
-            result = mid;
-            high = mid-1;
-           }else{
-            low = mid+1;
-           }
         }
-        return result;
+        return ans;
     }
 }

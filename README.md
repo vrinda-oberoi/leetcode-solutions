@@ -187,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
+## Math
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0050-powx-n) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->

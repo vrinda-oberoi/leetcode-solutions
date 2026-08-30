@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0175-combine-two-tables) |
 | [0596-classes-with-at-least-5-students](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0596-classes-with-at-least-5-students) |
 | [1211-queries-quality-and-percentage](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1211-queries-quality-and-percentage) |
 | [1683-invalid-tweets](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1683-invalid-tweets) |

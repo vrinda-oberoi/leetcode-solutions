@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0146-lru-cache](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0355-design-twitter](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0706-design-hashmap](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0706-design-hashmap) |
 ## Union-Find
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0796-rotate-string) |
 ## Sorting
 |  |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Quicksort

@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0706-design-hashmap](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0706-design-hashmap) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Union-Find
 |  |
 | ------- |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0796-rotate-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Manacher
 |  |
 | ------- |

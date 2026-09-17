@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0875-koko-eating-bananas](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0907-sum-of-subarray-minimums](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0994-rotting-oranges](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -325,4 +326,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->

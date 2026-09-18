@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0743-network-delay-time) |
 ## Data Stream
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
@@ -341,4 +343,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->

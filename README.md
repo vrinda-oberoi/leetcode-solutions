@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0198-house-robber) |
+| [0300-longest-increasing-subsequence](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0518-coin-change-ii) |
 | [0907-sum-of-subarray-minimums](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -362,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0743-network-delay-time) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->

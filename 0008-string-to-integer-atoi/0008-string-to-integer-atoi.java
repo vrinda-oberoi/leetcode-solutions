@@ -1,49 +1,36 @@
 class Solution {
     public int myAtoi(String s) {
-       if(s == null || s.length() == 0){
-          return 0;
-        }
-
-        final int INT_MAX = Integer.MAX_VALUE;
-        final int INT_MIN = Integer.MIN_VALUE;
-
+        int n = s.length();
         int i=0;
-        int n =s.length();
 
-        //step 1 white spaces
-        while(i<n && s.charAt(i) == ' '){
-            i++;
-        } 
-
-        if( i == n){
-            return 0;
-        }
-
-        //step 2 sign
-        int sign = 1;
-        if(s.charAt(i) == '+'){
-            i++;
-        }else if(s.charAt(i) == '-'){
-            sign =-1;
+        while(i < n && s.charAt(i) == ' '){
             i++;
         }
 
-        //step 3 read digits
-        long res=0;
-        while(i<n && Character.isDigit(s.charAt(i))){
-            int digit = s.charAt(i) -'0';
-            res = res*10+digit;
+        int sign =1;
 
-            if(sign *res <= INT_MIN){
-                return INT_MIN;
-            }
-            if(sign * res >=INT_MAX){
-                return INT_MAX;
+        if(i < n && (s.charAt(i) == '+'|| s.charAt(i) == '-')){
+            if(s.charAt(i) == '-'){
+                sign = -1;
             }
             i++;
         }
+        return convert(s,i,sign,0);
+    }
 
-        //step 4 return ans
-        return (int) (res *sign);
+    public int convert(String s,int i,int sign,int num){
+       if( i == s.length() || !Character.isDigit(s.charAt(i))){
+        return sign * num;
+       }
+
+       int digit = s.charAt(i)-'0';
+
+       if(num > Integer.MAX_VALUE /10 || num == Integer.MAX_VALUE/10 && digit >7){
+        return sign == 1?Integer.MAX_VALUE : Integer.MIN_VALUE;
+       }
+
+       num = num * 10 +digit;
+
+       return convert(s,i+1,sign,num);
     }
 }

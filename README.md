@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0198-house-robber) |
+| [0268-missing-number](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0518-coin-change-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0518-coin-change-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0355-design-twitter](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0706-design-hashmap](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0706-design-hashmap) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1048-longest-string-chain](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1048-longest-string-chain) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -176,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0078-subsets) |
 | [0187-repeated-dna-sequences](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
+| [0268-missing-number](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0268-missing-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Meet in the Middle
 |  |
@@ -288,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0268-missing-number) |
 | [1922-count-good-numbers](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |

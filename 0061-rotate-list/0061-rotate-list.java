@@ -9,37 +9,67 @@
  * }
  */
 class Solution {
-    public ListNode rotateRight(ListNode head, int k) {
+    public ListNode reverseLL(ListNode head){
         if(head == null || head.next == null){
             return head;
         }
-        int len = 1;
-        ListNode tail=head;
 
-        while(tail.next !=null){
-            len++;
-            tail = tail.next;
+        ListNode curr = head;
+        ListNode prev = null;
+        while(curr != null){
+            ListNode temp = curr.next;
+            curr.next = prev;
+            prev = curr;
+            curr = temp;
         }
 
-        if( k % len == 0){
+        return prev;
+    }
+    public ListNode rotateRight(ListNode head, int k) {
+        // Edge cases
+        if (head == null || head.next == null || k == 0) {
             return head;
         }
 
+        int len = 0;
+        ListNode curr = head;
+
+        while(curr != null){
+            len++;
+            curr = curr.next;
+        } 
+
+        // Remove unnecessary full rotations
         k = k % len;
-        int steps = len-k;
-        tail.next = head;
-        ListNode newNode = findKth(head,steps);
-        head = newNode.next;
-        newNode.next = null;
 
-        return head;
-    }
-
-    public static ListNode findKth(ListNode head,int steps){
-        ListNode temp = head;
-        for(int i=1;i<steps;i++){
-        temp = temp.next;
+        if (k == 0) {
+            return head;
         }
-        return temp;
+
+        // Reverse entire list
+        head = reverseLL(head);
+
+        
+        int count = 1;
+        ListNode temp = head;
+        while(count < k){
+            temp = temp.next;
+            count++;
+        }
+
+        ListNode other = temp.next;
+        temp.next = null;
+
+        ListNode firstH = reverseLL(head);
+        ListNode secondH = reverseLL(other);
+
+        curr = firstH;
+        while(curr.next != null){
+            curr = curr.next;
+        }
+
+        curr.next = secondH;
+
+        return firstH;
     }
 }

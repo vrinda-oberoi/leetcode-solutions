@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0198-house-robber) |
+| [0216-combination-sum-iii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 ## Bracket Sequences
 |  |
 | ------- |

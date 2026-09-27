@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [0451-sort-characters-by-frequency](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0516-longest-palindromic-subsequence](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0796-rotate-string) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [1922-count-good-numbers](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -334,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0282-expression-add-operators) |
 ## Bracket Sequences
 |  |
 | ------- |

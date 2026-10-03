@@ -7,16 +7,16 @@ class MyStack {
     
     public void push(int x) {
         int s = que.size();
-        que.add(x);
+        que.offer(x);
 
         for(int i=0;i<s;i++){
-            que.add(que.peek());
-            que.remove();
+            que.offer(que.peek());
+            que.poll();
         }
     }
     
     public int pop() {
-        return que.remove();
+        return que.poll();
     }
     
     public int top() {

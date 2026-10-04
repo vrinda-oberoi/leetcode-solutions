@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0706-design-hashmap](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |

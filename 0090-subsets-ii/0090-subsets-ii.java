@@ -9,8 +9,9 @@ class Solution {
         return result;
     }
 
-    public void solve(int nums[],int idx,int n,ArrayList<Integer>ans){
+    public void solve(int nums[],int idx,int n, ArrayList<Integer> ans){
         result.add(new ArrayList<>(ans));
+
         for(int i = idx;i<n;i++){
             if(i > idx && nums[i] == nums[i-1]){
                 continue;

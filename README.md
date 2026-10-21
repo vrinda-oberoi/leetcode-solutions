@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
+| [0968-binary-tree-cameras](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 | [1048-longest-string-chain](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Bit Manipulation
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0968-binary-tree-cameras](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -354,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0968-binary-tree-cameras](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 ## Sliding Window
 |  |
 | ------- |
@@ -520,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0079-word-search) |
 | [0743-network-delay-time](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0968-binary-tree-cameras](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 ## Graph Theory
 |  |
 | ------- |
@@ -579,4 +583,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0148-sort-list) |
+## DP on Trees
+|  |
+| ------- |
+| [0968-binary-tree-cameras](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->

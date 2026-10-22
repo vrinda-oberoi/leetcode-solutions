@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0410-split-array-largest-sum](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0307-range-sum-query-mutable](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0355-design-twitter) |
 | [0460-lfu-cache](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0148-sort-list) |
+| [0307-range-sum-query-mutable](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 ## Trie
 |  |
 | ------- |
@@ -546,10 +549,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Segment Tree
 |  |
 | ------- |
+| [0307-range-sum-query-mutable](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Algorithm X
 |  |
@@ -587,4 +592,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0968-binary-tree-cameras](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->

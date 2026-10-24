@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0268-missing-number) |

@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0268-missing-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0355-design-twitter) |
@@ -458,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0148-sort-list](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0307-range-sum-query-mutable](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0307-range-sum-query-mutable) |
 ## Trie
 |  |
@@ -627,4 +631,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0204-count-primes) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

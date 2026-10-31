@@ -1,100 +1,107 @@
-class Twitter {
-    private int time = 0;
-    private Map<Integer,Set<Integer>> following; //users jisko vo follow krta haii 
-    private Map<Integer,List<Tweet>> tweets ;
-
-    class Tweet{
-        int id;
-        int time;
-
-        Tweet(int id,int time){
-            this.id =id;
-            this.time = time;
-        }
-    } 
-    class Node{
-        int userId;
-        int index;
-
-        Node(int userId,int index){
-            this.userId =userId;
-            this.index = index;
-        }
+class Tweet implements Comparable<Tweet>{
+    int time;
+    int tweetId;
+    Tweet(int t,int id){
+        time = t;
+        tweetId = id;
+    }
+    public int compareTo(Tweet that){
+        return that.time-this.time; //desc
+    }
+}
+class User{
+    int userId;
+    HashSet<Integer> followers;
+    LinkedList<Tweet> tweets;
+    User(int userId){
+        this.userId = userId;
+        followers = new HashSet<>();
+        tweets = new LinkedList<>();
     }
 
+    public void addTweet(Tweet t){
+        tweets.add(0,t); //insertion at head;
+    }
+
+    public void addFollower(int followeeId){
+        followers.add(followeeId);
+    }
+
+    public void removeFollower(int followeeId){
+        followers.remove(followeeId);
+    }
+}
+class Twitter {
+    HashMap<Integer,User> userMap;
+    int timeCounter;
     public Twitter() {
-       following = new HashMap<>();
-       tweets = new HashMap<>();
-       time = 0;
+        userMap = new HashMap<>();
+        timeCounter = 0;
     }
     
     public void postTweet(int userId, int tweetId) {
-        following.putIfAbsent(userId,new HashSet<>());
-        following.get(userId).add(userId);
-
-        tweets.putIfAbsent(userId,new ArrayList<>());
-        tweets.get(userId).add(new Tweet(tweetId,time++));
+       timeCounter++;
+       if(!userMap.containsKey(userId)){
+        userMap.put(userId,new User(userId));
+       } 
+       User user = userMap.get(userId);
+       user.addTweet(new Tweet(timeCounter,tweetId));
     }
     
     public List<Integer> getNewsFeed(int userId) {
-        List<Integer> ans = new ArrayList<>();
-
-        if(!following.containsKey(userId)){
-            return ans;
+        if(!userMap.containsKey(userId)){
+            return new ArrayList<>();
         }
-
-        PriorityQueue<Node> pq = new PriorityQueue<>(
-           (a,b) ->{
-            
-            Tweet t1 = tweets.get(a.userId).get(a.index);
-            Tweet t2 = tweets.get(b.userId).get(b.index);
-
-            return t2.time-t1.time;
-           }
-        );
-        
-        for (int followee : following.get(userId)) {
-            if (tweets.containsKey(followee)) {
-                int lastIndex = tweets.get(followee).size() - 1;
-                pq.offer(
-                    new Node(followee, lastIndex)
-                );
+        PriorityQueue<Tweet> pq = new PriorityQueue<>();
+        //add self tweets + followers ke tweets
+        User user = userMap.get(userId);
+        for(int followerId:user.followers){
+            int count = 0;
+            for(Tweet tweet : userMap.get(followerId).tweets){
+                pq.add(tweet);
+                count++;
+                if(count >10){
+                    break;
+                }
             }
         }
-        while (!pq.isEmpty() && ans.size() < 10) {
-
-            Node current = pq.poll();
-
-            Tweet currentTweet =
-                tweets.get(current.userId).get(current.index);
-            ans.add(currentTweet.id);
-            if (current.index > 0) {
-
-                pq.offer(
-                    new Node(
-                        current.userId,
-                        current.index - 1
-                    )
-                );
+        int count = 0;
+        for(Tweet tweet : user.tweets){
+            pq.offer(tweet);
+            count++;
+            if(count>10){
+                break;
             }
         }
-        return ans;
+
+        List<Integer> res = new ArrayList<>();
+        int index = 0;
+        while(!pq.isEmpty() && index<10){
+            Tweet tweet = pq.poll();
+            res.add(tweet.tweetId);
+            index++;
+        }
+        return res;
     }
     
     public void follow(int followerId, int followeeId) {
-        following.putIfAbsent(followerId,new HashSet<>() );
+        if(!userMap.containsKey(followerId)){
+            userMap.put(followerId,new User(followerId));
+        }
+        if(!userMap.containsKey(followeeId)){
+            userMap.put(followeeId,new User(followeeId));
+        }
 
-        following.get(followerId).add(followeeId);
+        User user = userMap.get(followerId);
+        user.addFollower(followeeId);
     }
     
     public void unfollow(int followerId, int followeeId) {
-         if (followerId == followeeId) {
+        if(!userMap.containsKey(followerId) || !userMap.containsKey(followeeId)){
             return;
         }
-
-        if (following.containsKey(followerId)) {
-            following.get(followerId).remove(followeeId);
-        }
+        User user = userMap.get(followerId);
+        user.removeFollower(followeeId);
     }
 }
 

@@ -15,26 +15,29 @@ class Node {
 
 class Solution {
     public Node copyRandomList(Node head) {
+        // step 1 insertion of copy nodes in between 
         Node temp = head;
         while(temp != null){
-            Node copyNode  = new Node(temp.val);
+            Node copyNode = new Node(temp.val);
             copyNode.next = temp.next;
             temp.next = copyNode;
             temp = temp.next.next;
         }
 
-        temp = head;
-        while(temp != null){
+        // step 2 random pointer fixing
+
+         temp = head;
+         while(temp != null){
             Node copyNode = temp.next;
             if(temp.random != null){
-                copyNode.random = temp.random.next;
+               copyNode.random = temp.random.next;
             }
-
             temp = temp.next.next;
-        }
+         }
 
-        Node dNode = new Node(-1);
-        Node res = dNode;
+        //step 3 link proper nodes
+        Node dummy = new Node(-1);
+        Node res = dummy;
         temp = head;
 
         while(temp != null){
@@ -44,6 +47,7 @@ class Solution {
             temp = temp.next;
         }
 
-        return dNode.next;
+
+        return dummy.next;
     }
 }

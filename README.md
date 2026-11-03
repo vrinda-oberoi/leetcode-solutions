@@ -263,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0268-missing-number) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Meet in the Middle
 |  |
 | ------- |

@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0706-design-hashmap) |
 | [0735-asteroid-collision](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [0846-hand-of-straights](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0907-sum-of-subarray-minimums) |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0860-lemonade-change) |
 ## Prefix Sum
 |  |
 | ------- |

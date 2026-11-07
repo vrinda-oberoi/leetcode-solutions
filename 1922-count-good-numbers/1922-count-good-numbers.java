@@ -1,30 +1,27 @@
 class Solution {
     static final long MOD = 1000000007;
-
     public int countGoodNumbers(long n) {
-       long evenPos = (n+1)/2;
-       long oddPos = (n/2);
+        long evenPos = (n+1)/2;
+        long oddPos =n/2;
 
-       long evenWays = callPower(5,evenPos);
-       long oddWays = callPower(4,oddPos);
+        long evenWays = callPower(5,evenPos);
+        long oddWays = callPower(4,oddPos);
 
-       return (int) ((evenWays * oddWays) % MOD); 
+        return (int) ((evenWays * oddWays) % MOD);
     }
 
-    private long callPower(int base , long n){
-        if(n == 0){
+    public long callPower(int base,long n){
+        if(n==0){
             return 1;
         }
 
-        long half = callPower(base,n/2);
+        long half =callPower(base,n/2);
         long result = (half * half) % MOD;
         
         if(n % 2 == 1){
-            result = (result * base) % MOD;
+            result = (base * result) %MOD;
         }
 
         return result;
     }
-
-    //TC = O(Log n)  SC = O(Log n)
 }

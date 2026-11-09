@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0079-word-search) |

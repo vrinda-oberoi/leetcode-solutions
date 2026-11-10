@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2104-sum-of-subarray-ranges](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [3975-filter-occupied-intervals](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/3975-filter-occupied-intervals) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Union-Find
 |  |
 | ------- |

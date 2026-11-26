@@ -533,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0282-expression-add-operators) |
 | [1248-count-number-of-nice-subarrays](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1922-count-good-numbers](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1922-count-good-numbers) |
+| [3360-stone-removal-game](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/3360-stone-removal-game) |
 ## Recursion
 |  |
 | ------- |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [3360-stone-removal-game](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/3360-stone-removal-game) |
 ## Depth-First Search
 |  |
 | ------- |

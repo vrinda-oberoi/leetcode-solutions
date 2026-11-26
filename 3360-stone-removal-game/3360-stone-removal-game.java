@@ -7,12 +7,12 @@ class Solution {
 
         while(req <= left){
             if(win){
-                win = false;
+             win = false;
             }else{
                 win = true;
             }
 
-            left = left-req;
+            left = left - req;
             req = req-1;
         }
 

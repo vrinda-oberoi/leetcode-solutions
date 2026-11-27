@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2104-sum-of-subarray-ranges](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 | [3975-filter-occupied-intervals](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/3975-filter-occupied-intervals) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Hash Table
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0968-binary-tree-cameras](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 | [1048-longest-string-chain](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0678-valid-parenthesis-string) |
 | [0846-hand-of-straights](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0860-lemonade-change) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Prefix Sum
 |  |
 | ------- |

@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2104-sum-of-subarray-ranges](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3975-filter-occupied-intervals](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/3975-filter-occupied-intervals) |
 | [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Hash Table
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 | [3975-filter-occupied-intervals](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/3975-filter-occupied-intervals) |
 ## Quicksort
 |  |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0787-cheapest-flights-within-k-stops) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Data Stream
 |  |
 | ------- |
@@ -512,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/0860-lemonade-change) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/vrinda-oberoi/leetcode-solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Prefix Sum
 |  |
 | ------- |
